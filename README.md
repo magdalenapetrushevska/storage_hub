@@ -94,10 +94,12 @@ The **Storage Management Platform** is a web application that simplifies file st
 To run this project locally, follow these steps:
 
 1. **Clone the repository**:
-   ```
-   git clone https://github.com/your-username/storage-hub.git
-   cd storage-hub
-   ```
+
+```
+git clone https://github.com/magdalenapetrushevska/storage-hub.git
+cd storage-hub
+```
+
 2. **Install dependencies**:
 
 ```
